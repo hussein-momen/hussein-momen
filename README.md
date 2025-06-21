@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning programming languages (bash, python, cpp)
 - 📫 How to reach me husseinjunior344@gmail.com
-- 😄 Pronouns: Junior
+- 😄 Pronouns: he/him
 
 
 <!---
